@@ -32,7 +32,7 @@
     "lockit-login": "git@github.com:makeandship/lockit-login.git#feature/extended_user",
     "lockit-signup": "git@github.com:makeandship/lockit-signup.git#feature/extended_user",
     "lockit-sql-adapter": "git@github.com:makeandship/lockit-sql-adapter.git#feature/extended_user",
-    "lockit-utils": "^0.5.3",
+    "lockit-utils": "git@github.com:makeandship/lockit-utilities.git#feature/extended_user",
     "node.extend": "^1.1.2",
     "sqlite3": "^3.0.0"
   },
